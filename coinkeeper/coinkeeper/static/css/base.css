@@ -1,0 +1,12 @@
+body{
+    font-family: "Inter", sans-serif;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+footer a {
+    color: #ffffff;
+}
+
